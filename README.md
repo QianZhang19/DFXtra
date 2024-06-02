@@ -33,7 +33,7 @@ To run the Grad Profile System locally, follow these steps:
 
 * Clone the repository to your local machine:
 ```
-git clone [<repository-url>](https://github.com/QianZhang19/Grad-Profile-System.git)
+git clone (https://github.com/QianZhang19/Grad-Profile-System.git)
 ```
 
 * Navigate to the project directory:

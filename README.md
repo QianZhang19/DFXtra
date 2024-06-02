@@ -31,17 +31,17 @@ The Grad Profile System is a full-stack web application designed to manage and d
 
 To run the Grad Profile System locally, follow these steps:
 
-Clone the repository to your local machine:
+* Clone the repository to your local machine:
 ```
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/QianZhang19/Grad-Profile-System.git)
 ```
 
-Navigate to the project directory:
+* Navigate to the project directory:
 ```
 cd grad-profile-system
 ```
 
-Install dependencies for both the frontend and backend:
+* Install dependencies for both the frontend and backend:
 ```
 # Install frontend dependencies
 cd frontend
@@ -52,11 +52,11 @@ cd ../backend
 npm install
 ```
 
-Set up environment variables:
+* Set up environment variables:
 
 Create a .env file in the backend directory and define the required variables, such as database connection string, port number, etc.
 
-Start the frontend and backend servers:
+* Start the frontend and backend servers:
 ```
 # Start the frontend server
 cd frontend
@@ -67,7 +67,7 @@ cd ../backend
 npm start
 ```
 
-Access the application in your web browser:
+* Access the application in your web browser:
 ```
 http://localhost:3000
 ```
